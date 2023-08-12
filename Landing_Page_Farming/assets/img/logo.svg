@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Tractor -->
+  <rect x="40" y="100" width="120" height="50" fill="#F39C12" />
+  <rect x="30" y="90" width="140" height="10" fill="#F39C12" />
+  <rect x="30" y="110" width="10" height="40" fill="#F39C12" />
+  <rect x="160" y="110" width="10" height="40" fill="#F39C12" />
+  <circle cx="50" cy="155" r="10" fill="#F39C12" />
+  <circle cx="150" cy="155" r="10" fill="#F39C12" />
+  
+  <!-- Barn -->
+  <rect x="65" y="40" width="70" height="80" fill="#C0392B" />
+  <rect x="45" y="120" width="110" height="40" fill="#C0392B" />
+  <polygon points="65,40 130,40 130,80" fill="#8E44AD" />
+  
+  <!-- Text -->
+  <text x="100" y="180" text-anchor="middle" font-family="Arial" font-size="18" fill="#000000">Shetkari</text>
+</svg>
